@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SPP1\bin\Debug\net5.0\SPP1.exe
+C:\Users\User\source\repos\SPP1\bin\Debug\net5.0\SPP1.deps.json
+C:\Users\User\source\repos\SPP1\bin\Debug\net5.0\SPP1.runtimeconfig.json
+C:\Users\User\source\repos\SPP1\bin\Debug\net5.0\SPP1.runtimeconfig.dev.json
+C:\Users\User\source\repos\SPP1\bin\Debug\net5.0\SPP1.dll
+C:\Users\User\source\repos\SPP1\bin\Debug\net5.0\ref\SPP1.dll
+C:\Users\User\source\repos\SPP1\bin\Debug\net5.0\SPP1.pdb
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.AssemblyInfo.cs
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.dll
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\ref\SPP1.dll
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.pdb
+C:\Users\User\source\repos\SPP1\obj\Debug\net5.0\SPP1.genruntimeconfig.cache
